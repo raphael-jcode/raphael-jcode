@@ -22,7 +22,7 @@ Aqui você vai ver a minha jornada, meus estudos e meus primeiros projetos.
 ---
 ##📖 Meu plano de aprendizado:
 Organizei um roadmap onde coloco tudo que estou estudando e minha evolução semanal.
-➡ Você pode acessar aqui: ()
+➡ Você pode acessar aqui: [Meu Roadmap de estudos] (https://github.com/raphael-jcode/roadmap-m-s-1/tree/main)
 
 ---
 
